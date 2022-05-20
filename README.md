@@ -1,4 +1,4 @@
-# Wysebone automation test
+# Automation test
 - Using [Selenium](https://www.selenium.dev/).
 - Language: [Python](https://www.python.org/).
 
